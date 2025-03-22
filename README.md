@@ -1,11 +1,10 @@
-"""
 # Biblioteka Linear Functions
 
 Biblioteka umożliwia przeprowadzanie obliczeń na funkcjach liniowych oraz wizualizację wykresów.
 
 ## Instalacja
 ```bash
-pip install -e LINK_GIT
+pip install -e git+https://github.com/Patrykpkzs/linear_functions_lib.git
 ```
 
 ## Przykład użycia
@@ -21,5 +20,3 @@ print(calculate_slope((0, 0), (2, 4)))  # Wynik: 2.0
 - Sprawdzanie przynależności punktu do prostej
 - Znajdowanie prostych równoległych i prostopadłych
 - Wizualizacja wykresów
-
-"""
