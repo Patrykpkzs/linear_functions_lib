@@ -6,5 +6,5 @@ setup(
     packages=find_packages(),
     install_requires=['matplotlib', 'numpy'],
     description='Biblioteka do obliczeń na funkcjach liniowych.',
-    author='',
+    author='Patrykpkzs',
 )
