@@ -1,0 +1,30 @@
+# Pliki kompilacji Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pliki konfiguracyjne środowiska wirtualnego
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pliki testowe i cache
+.coverage
+.tox/
+nosetests.xml
+test*.log
+*.egg-info/
+
+# Pliki IDE i edytorów
+.vscode/
+.idea/
+*.swp
+
+# Pliki logów
+*.log
+
+# Pliki związane z systemem
+.DS_Store
+Thumbs.db
