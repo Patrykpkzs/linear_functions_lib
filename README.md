@@ -4,7 +4,7 @@ Biblioteka umożliwia przeprowadzanie obliczeń na funkcjach liniowych oraz wizu
 
 ## Instalacja
 ```bash
-pip install -e git+https://github.com/Patrykpkzs/linear_functions_lib.git
+pip install git+https://github.com/Patrykpkzs/linear_functions_lib.git
 ```
 
 ## Przykład użycia
